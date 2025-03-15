@@ -47,7 +47,7 @@ fun LoginScreen(modifier: Modifier = Modifier) {
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
-        Text(text = "Login", style = MaterialTheme.typography.headlineMedium, color = Color.Blue)
+        Text(text = "Login", style = MaterialTheme.typography.headlineMedium, color = Color.Green)
         Spacer(modifier = Modifier.height(16.dp))
 
 
